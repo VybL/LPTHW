@@ -1,3 +1,3 @@
 # LPTHW
-The Python The Hard Way - Python 2
+Learn Python The Hard Way
 codes/notes regarding the python book.
